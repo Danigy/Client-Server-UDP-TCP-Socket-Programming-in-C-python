@@ -1,0 +1,2 @@
+# TCP-Chat-Room
+This Python code will create a server in which it displays every user who connects or disconnects. On the same server, clients can connect with a nickname and talk to other clients. It's a basic chat room. But it uses only local host ip, so only the same device can chat. With some modifications, this code can potentially be a chat room for people across multiple devices with the correct server ip and port.
